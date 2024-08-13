@@ -1,3 +1,7 @@
+'''
+https://www.codingame.com/training/easy/container-terminal
+'''
+
 import sys
 import math
 

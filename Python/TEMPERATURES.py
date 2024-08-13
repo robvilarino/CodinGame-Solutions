@@ -1,3 +1,6 @@
+'''
+Puzzle URL: https://www.codingame.com/training/easy/temperatures
+'''
 import sys
 import math
 

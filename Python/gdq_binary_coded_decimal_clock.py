@@ -1,3 +1,7 @@
+'''
+https://www.codingame.com/training/easy/gdq---binary-coded-decimal-clock
+'''
+
 import sys
 import math
 

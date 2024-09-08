@@ -1,5 +1,5 @@
 '''
-Puzzle URL: https://www.codingame.com/ide/puzzle/the-broken-editor
+Puzzle URL: https://www.codingame.com/training/easy/the-broken-editor
 '''
 
 import sys

@@ -1,5 +1,5 @@
 '''
-https://www.codingame.com/training/easy/gdq---binary-coded-decimal-clock
+Puzzle URL: https://www.codingame.com/training/easy/gdq---binary-coded-decimal-clock
 '''
 
 import sys
